@@ -1,3 +1,3 @@
 export default function Test(){
-    return null 
+    return <div>1</div>
 }
